@@ -25,11 +25,16 @@
 ///
 /// @brief	Network name = SSID
 ///
-char ssid[] = "jwu-tp";
+//char ssid[] = "jwu-tp";
+//char ssid[] = "PISDnowires";
+ char ssid[] = "Michael_Phone";
 
 ///
 /// @brief	Network password
 ///
-char password[] = "0722112175abcdef";
+//char password[] = "0722112175abcdef";
+//char password[] = "tT89hsc4u2haRwkaXWpi8mtB7";
+ char password[] = "doorfishman";
+
 
 #endif
